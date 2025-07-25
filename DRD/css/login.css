@@ -1,0 +1,142 @@
+.screen-1 {
+    font-family: "Poppins";
+  }
+  
+ 
+  .screen-1 {
+    width: 30%;
+    background: #f1f7fe;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+    box-shadow: 0 0 2em #e6e9f9;
+    gap: 2em;
+  }
+  .screen-1 .logo {
+    margin-top: -3em;
+  }
+
+  .screen-1 .text {
+    background: white !important;
+    box-shadow: 0 0 2em #e6e9f9 !important;
+    padding: 1em !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.5em !important;
+    border-radius: 20px !important;
+    color: #4d4d4d !important;
+    margin-bottom: 20px !important;
+  }
+  .screen-1 .text input {
+    outline: none !important;
+    border: none !important;
+  }
+  .screen-1 .text input::-moz-placeholder {
+    color: rgb(177, 177, 177) !important;
+    font-size: 0.9em !important;
+  }
+  .screen-1 .text input:-ms-input-placeholder {
+    color: rgb(177, 177, 177) !important;
+    font-size: 0.9em !important;
+  }
+  .screen-1 .text input::placeholder {
+    color: rgb(177, 177, 177) !important;
+    font-size: 0.9em !important;
+  }
+  .screen-1 .text ion-icon {
+    color: #4d4d4d !important;
+    margin-bottom: -0.2em !important;
+  }
+
+  .screen-1 .email {
+    background: white !important;
+    box-shadow: 0 0 2em #e6e9f9 !important;
+    padding: 1em !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.5em !important;
+    border-radius: 20px !important;
+    color: #4d4d4d !important;
+  }
+  .screen-1 .email input {
+    outline: none !important;
+    border: none !important;
+  }
+  .screen-1 .email input::-moz-placeholder {
+    color: rgb(177, 177, 177) !important;
+    font-size: 0.9em !important;
+  }
+  .screen-1 .email input:-ms-input-placeholder {
+    color: rgb(177, 177, 177) !important;
+    font-size: 0.9em !important;
+  }
+  .screen-1 .email input::placeholder {
+    color: rgb(177, 177, 177) !important;
+    font-size: 0.9em !important;
+  }
+  .screen-1 .email ion-icon {
+    color: #4d4d4d !important;
+    margin-bottom: -0.2em !important;
+  }
+
+
+  .screen-1 .password {
+    margin-top: 20px !important;
+    background: white !important;
+    box-shadow: 0 0 2em #e6e9f9 !important;
+    padding: 1em !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.5em !important;
+    border-radius: 20px !important;
+    color: #4d4d4d !important;
+    margin-bottom: 20px !important;
+  }
+  .screen-1 .password input {
+    outline: none !important;
+    border: none !important;
+  }
+  .screen-1 .password input::-moz-placeholder {
+    color: rgb(177, 177, 177) !important;
+    font-size: 0.9em !important;
+  }
+  .screen-1 .password input:-ms-input-placeholder {
+    color: rgb(177, 177, 177) !important;
+    font-size: 0.9em !important;
+  }
+  .screen-1 .password input::placeholder {
+    color: rgb(177, 177, 177) !important;
+    font-size: 0.9em !important;
+  }
+  .screen-1 .password ion-icon {
+    color: #4d4d4d !important;
+    margin-bottom: -0.2em !important;
+  }
+  .screen-1 .password .show-hide {
+    margin-right: -5em !important;
+  }
+  .screen-1 .login {
+    margin-top: 20px !important;
+    width: 100% !important ;
+    padding: 1em !important;
+    background: #3e4684 !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 30px !important;
+    font-weight: 600 !important;
+  }
+  .screen-1 .footer {
+    display: flex !important;
+    font-size: 0.7em !important;
+    color: #5e5e5e !important;
+    gap: 22em !important;
+    padding-bottom: 10em !important;
+  }
+  .screen-1 .footer span {
+    cursor: pointer !important;
+  }
+  
+  button {
+    cursor: pointer !important;
+  }
